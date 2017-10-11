@@ -1,6 +1,6 @@
 # Coding-Methodology
 
-# Picture management:
-  Creation
-  Rotation
-  Hide message in the picture code
+Picture management:
+  * Creation
+  * Rotation
+  * Hide message in the picture code
